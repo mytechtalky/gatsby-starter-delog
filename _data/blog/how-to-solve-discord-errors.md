@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /how-to-solve-discord-errors
 date: 2020-02-20T07:08:53.137Z
-title: Hello World
+title: How to Solve Discord Stuck on Checking Updates
 thumbnail: ''
 metaDescription: Meta description for Hello World
 ---
